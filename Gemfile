@@ -1,0 +1,5 @@
+source "http://rubygems.org"
+gem "nokogiri"
+gem "ffi"
+gem "blather"
+gem "em-zeromq"
