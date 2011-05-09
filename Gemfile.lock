@@ -1,0 +1,24 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    blather (0.4.15)
+      eventmachine (>= 0.12.6)
+      nokogiri (>= 1.4.0)
+    em-zeromq (0.2.1)
+      eventmachine (>= 1.0.0.beta.3)
+      ffi-rzmq (>= 0.7.2)
+    eventmachine (1.0.0.beta.3)
+    ffi (1.0.7)
+      rake (>= 0.8.7)
+    ffi-rzmq (0.8.0)
+    nokogiri (1.4.4)
+    rake (0.8.7)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  blather
+  em-zeromq
+  ffi
+  nokogiri
