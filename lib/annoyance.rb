@@ -1,9 +1,9 @@
 
 
-require 'genstatus/fetchstatus'
-require 'genstatus/getuser'
-require 'genstatus/output'
-require 'genstatus/jabber'
+require 'annoyance/fetchstatus'
+require 'annoyance/getuser'
+require 'annoyance/output'
+require 'annoyance/jabber'
 
 class GenStatus
   
