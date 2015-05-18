@@ -3,7 +3,7 @@ require 'etc'
 
 module GetUser
   
-  PRIMARY_DOMAIN = 'wetafx.co.nz'
+  PRIMARY_DOMAIN = 'rebx.com'
 
   def getuser
     @username = get_name
